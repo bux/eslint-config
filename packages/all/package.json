@@ -1,0 +1,27 @@
+{
+  "name": "@bux/eslint-config",
+  "version": "0.0.1",
+  "private": true,
+  "packageManager": "pnpm@7.2.1",
+  "description": "Jo's custom ESLint config (Based on antfu's config)",
+  "author": "Jo David",
+  "license": "MIT",
+  "homepage": "https://github.com/bux/eslint-config",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@antfu/eslint-config": "*"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "typescript": "^4.7.4"
+  }
+}
