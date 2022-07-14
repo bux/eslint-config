@@ -1,6 +1,6 @@
 {
   "name": "@bux/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@7.2.1",
   "description": "Jo's custom ESLint config (Based on antfu's config)",
   "author": "Jo David",
