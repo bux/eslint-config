@@ -1,0 +1,12 @@
+{
+  "name": "@bux/eslint-config",
+  "version": "0.0.1",
+  "private": true,
+  "packageManager": "pnpm@7.2.1",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
