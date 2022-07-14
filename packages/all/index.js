@@ -6,5 +6,6 @@ module.exports = {
 
         "indent": ["error", 4, { SwitchCase: 1, VariableDeclarator: 1, outerIIFEBody: 1 }],
         "@typescript-eslint/indent": ["error", 4],
+        "vue/html-indent": ["warn", 4],
     },
 }
