@@ -12,8 +12,8 @@
   },
   "devDependencies": {
     "@bux/eslint-config": "*",
-    "bumpp": "^8.2.1",
-    "eslint": "^8.19.0",
-    "typescript": "^4.7.4"
+    "bumpp": "^9.2.0",
+    "eslint": "^8.49.0",
+    "typescript": "^5.2.2"
   }
 }

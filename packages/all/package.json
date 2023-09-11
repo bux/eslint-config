@@ -14,13 +14,13 @@
     "index.js"
   ],
   "peerDependencies": {
-    "eslint": ">=7.4.0"
+    "eslint": ">=8.0.0"
   },
   "dependencies": {
     "@antfu/eslint-config": "*"
   },
   "devDependencies": {
-    "eslint": "^8.19.0",
-    "typescript": "^4.7.4"
+    "eslint": "^8.49.0",
+    "typescript": "^5.2.2"
   }
 }
